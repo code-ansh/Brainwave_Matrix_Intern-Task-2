@@ -3,7 +3,7 @@
 ### COMPANY- Brainwave Matrix Solutions
 ### NAME- Ansh Gupta
 ### DOMAIN- DATA ANALYTICS
-### SALES DATA ANALYSIS WITH PYTHON
+### SENTIMENT ANALYSIS WITH PYTHON
 
 ### OVERVIEW of TASK 2
 - As part of my internship project, I undertook the task of Sentiment analysis by analyzing a large dataset of car reviews using python.
