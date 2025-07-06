@@ -1,2 +1,31 @@
 # Brainwave_Matrix_Intern-Task-2
-Sentiment Analysis
+
+### COMPANY- Brainwave Matrix Solutions
+### NAME- Ansh Gupta
+### DOMAIN- DATA ANALYTICS
+### SALES DATA ANALYSIS WITH PYTHON
+
+### OVERVIEW of TASK 2
+- As part of my internship project, I undertook the task of Sentiment analysis by analyzing a large dataset of car reviews using python.
+- Analyzed the comments on a youtube car review video.
+- Analyze whether comments are positive or negative.
+
+### TOOLS AND TECHNOLOGIES USED
+- Python
+- Libraries: Pandas, Matplotlib, Seaborn, SentimentIntensityAnalyzer, WordCloud, nltk
+
+### Jupyter Files:
+- The entire development and execution of the code was performed on Jupyter Files a Python notebook.
+
+### CSV File Format:
+- The dataset was stored in CSV format, which is a widely used and simple structure for tabular data.
+- The dataset consisted of 12 columns.
+
+### Python:
+- Python was the underlying language used to write and execute all the scripts.
+- Its compability with libraries such as Pandas and Matplotlib makes it an ideal language for data science and big data analytics.
+- nltk library helps us to analyze social media sentiments.
+
+### Learning Outcomes:
+- Writing and structuring Python code
+- Perform sentiment analysis on large datasets
