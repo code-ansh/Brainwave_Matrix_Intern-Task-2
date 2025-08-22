@@ -1,12 +1,6 @@
-# Brainwave_Matrix_Intern-Task-2
+## SENTIMENT ANALYSIS WITH PYTHON
 
-### COMPANY- Brainwave Matrix Solutions
-### NAME- Ansh Gupta
-### DOMAIN- DATA ANALYTICS
-### SENTIMENT ANALYSIS WITH PYTHON
-
-### OVERVIEW of TASK 2
-- As part of my internship project, I undertook the task of Sentiment analysis by analyzing a large dataset of car reviews using python.
+### OVERVIEW
 - Analyzed the comments on a youtube car review video.
 - Analyze whether comments are positive or negative.
 
